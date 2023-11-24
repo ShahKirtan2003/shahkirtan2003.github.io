@@ -45,9 +45,6 @@ class Exercise1 {
         System.out.println("The two strings are " + (tc2.str1.equals(tc2.str2) ? "equal" : "not equal"));
 
 
-        // second task
-
-
 
     }
 }
