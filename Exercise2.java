@@ -11,6 +11,9 @@ class Exercise2 {
 
     public static void main(String[] args) {
         
+
+        System.out.println("Hello World! Its kirtan here.\nEnter 10 strings: ");
+
         ArrayList<String> list = new ArrayList<String>();
         HashSet<String> set = new HashSet<String>();
         HashMap<String, Integer> map = new HashMap<String, Integer>();
