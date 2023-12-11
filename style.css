@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  text-align: center;
+  font-size: 50px;
+  padding: 10vh auto;
+}
+
+.operator {
+  margin-top: 5vh 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.operator button {
+  padding: 30px 50px;
+  font-size: 60px;
+  cursor: pointer;
+}
